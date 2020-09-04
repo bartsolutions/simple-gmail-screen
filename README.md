@@ -14,6 +14,10 @@ By default, both top menu and left sidebar are made autohide.
 
 You could select which one to autohide in options page.
 
+## Why build this?
+
+There are a bunch of existing extensions for Gmail UI tweaks, but most are just too heavy to me. I don't want to transform the Gmail to another tool, I am fine with Gmail in general, I ONLY want some extra space on the screen.
+
 ## License
 
 GPL V3
