@@ -1,0 +1,23 @@
+.simple-gmail-screen-top-bar, .simple-gmail-screen-left-bar {
+    background-color: #6399e2;
+    opacity: 0.2;
+    position: fixed;
+    z-index: 99;
+}
+
+.simple-gmail-screen-top-bar {
+    width: 13%;
+    height: 12px;
+    top: 0;
+    left: 10%;
+    border-radius: 0 0 5px 5px;
+}
+
+.simple-gmail-screen-left-bar {
+    height: 33%;
+    width: 12px;
+    left: 0;
+    top: 15%;
+    border-radius: 0 5px 5px 0;
+    opacity: 0.25;
+}
